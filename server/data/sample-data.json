@@ -1,0 +1,12 @@
+{
+  "cmsUsers": [
+    { "username": "admin", "password": "admin123", "name": "CMS Admin" },
+    { "username": "editor", "password": "editor123", "name": "Quiz Editor" }
+  ],
+  "students": [
+    { "username": "student1", "password": "student123", "name": "Aarav Sharma" },
+    { "username": "student2", "password": "student123", "name": "Diya Patel" },
+    { "username": "student3", "password": "student123", "name": "Kabir Mehta" }
+  ],
+  "notes": "This file documents the sample users seeded in the in-memory backend."
+}
